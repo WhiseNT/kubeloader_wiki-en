@@ -55,14 +55,3 @@ KubeLoader provides a suite of powerful features designed to enhance the KubeJS 
 - **Mixin Support**: Extensive mixin integration for deep Minecraft modification
 - **Debugging Tools**: Enhanced logging and error reporting for easier development
 
-## Quick Start
-
-### Installation
-1. Install KubeJS and KubeLoader in your mods folder
-2. Create a `kubeloader` folder in your Minecraft directory
-3. Place your ContentPacks in the `kubeloader/packs` folder
-
-### Creating Your First ContentPack
-```bash
-# Use the built-in commands to generate a ContentPack template
-/kl pack create my_first_pack
